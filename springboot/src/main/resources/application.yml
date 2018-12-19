@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: py
+    password: 123
+    url: jdbc:mysql://localhost/jcms?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Chongqing&useSSL=true  thymeleaf:    cache: false  redis:    password: 123
